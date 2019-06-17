@@ -1,0 +1,7 @@
+2019-06-17 19:17:02.381  INFO 6731 --- [main] o.e.ElkExampleSpringBootApplicationTests : Starting ElkExampleSpringBootApplicationTests on omr-VirtualBox with PID 6731 (started by omr in /home/omr/Documents/workspace/spring microservices/ElkExampleSpringBootApplication)
+2019-06-17 19:17:02.394  INFO 6731 --- [main] o.e.ElkExampleSpringBootApplicationTests : No active profile set, falling back to default profiles: default
+2019-06-17 19:17:04.346  INFO 6731 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.hateoas.config.HateoasConfiguration' of type [org.springframework.hateoas.config.HateoasConfiguration$$EnhancerBySpringCGLIB$$2a6f22fe] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-06-17 19:17:05.617  INFO 6731 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-17 19:17:06.542  INFO 6731 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-06-17 19:17:06.631  INFO 6731 --- [main] o.e.ElkExampleSpringBootApplicationTests : Started ElkExampleSpringBootApplicationTests in 5.009 seconds (JVM running for 6.209)
+2019-06-17 19:17:07.101  INFO 6731 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

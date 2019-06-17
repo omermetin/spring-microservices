@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: omr
+Build-Jdk: 11.0.3
+Implementation-Title: ElkExampleSpringBootApplication
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.omermetin.elkexamplespringboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/ElkExampleSpringBootApplication
+Created-By: Maven Integration for Eclipse
+
